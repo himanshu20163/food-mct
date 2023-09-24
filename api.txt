@@ -1,0 +1,2 @@
+food live url :- https://forkify-api.herokuapp.com/api/search?q=chicken
+food recipe details :- https://forkify-api.herokuapp.com/api/get?rId=35169
