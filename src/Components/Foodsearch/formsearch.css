@@ -1,0 +1,9 @@
+.formsearch{
+    width: 50%;
+}
+.foodAlldetails {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
