@@ -1,4 +1,4 @@
-import React from 'react'
+  import React from 'react'
 import homebanner from "../images/homeBcg.jpeg";
 import "./homestyle.css";
 import { Link } from 'react-router-dom';
