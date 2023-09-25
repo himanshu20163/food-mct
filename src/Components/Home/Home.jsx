@@ -11,7 +11,7 @@ const Home = () => {
                 <div className="col-lg-12">
                   <h3 style={{marginTop: "250px", marginLeft: "18em", color: "rgb(255, 255, 255)"}}>Welcome to Food Recipe</h3>
                 <Link to="/foodsearch">
-                    <button type="button" class="btn btn-success" style={{marginTop:"250px",marginLeft: "11em"}}>Recipe Url</button></Link>
+                    <button type="button" class="btn btn-success" style={{marginTop:"100px",marginLeft: "15em"}}>Recipe Url</button></Link>
                 </div>
             </div>
         </div>
